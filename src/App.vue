@@ -19,7 +19,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script lang="ts" type="typescript">
 import * as Vue from 'vue'
 import Component from 'vue-class-component'
 
